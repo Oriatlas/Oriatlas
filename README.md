@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oriatlas
 - 👀 I’m interested in Crypto Coding
 - 🌱 I’m currently learning codes
-- 💞️ I’m looking to collaborate on crypto
+- 💞️ I’m looking to collaborate on crypto stuff
 - 📫 How to reach me oriatlasx@gmail.com
 
 <!---
